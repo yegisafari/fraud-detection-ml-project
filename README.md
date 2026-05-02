@@ -8,7 +8,7 @@ The main challenge in this problem is that fraud cases are extremely rare, makin
 
 ## My Approach
 
-I didn’t just train a model — I tried to understand how the model behaves under imbalance.
+I didn’t just train a model, I tried to understand how the model behaves under imbalance.
 
 Steps I followed:
 
@@ -71,4 +71,4 @@ This project is less about building a perfect model and more about understanding
 
 ## Author
 
-Your Name
+Yeganeh Safari
